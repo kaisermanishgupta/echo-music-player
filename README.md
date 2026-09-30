@@ -8,13 +8,13 @@ What started as an exploration into Android development eventually became a publ
 
 **Echo Music Player** was designed as a feature-rich Android music player with a focus on a clean user experience and practical mobile application development.
 
-The project was independently developed and published on the **Google Play Store around 2020**.
+The project was independently developed and published on the **Google Play Store around 2019**.
 
 ### 🌍 Real-world Reach
 
 The application received a strong response after its release:
 
-* **106,000+ downloads**
+* **220,000+ downloads**
 * Users from **40+ countries**
 * Published and distributed through the **Google Play Store**
 * Developed and maintained as a student project
@@ -51,9 +51,9 @@ Unlike a project developed purely as an academic exercise, Echo gave me an oppor
 
 The experience introduced me to the practical challenges of building and maintaining software for real users.
 
-## 📊 What Happened Later?
+## 📊 Fate/What Happened Later?
 
-The application was eventually **delisted from the Google Play Store**.
+The application was eventually **delisted from the Google Play Store in 2022**.
 
 Over time, Google introduced newer **privacy, permission, and platform requirements** that required the application to be upgraded. As the project grew older, I was no longer able to dedicate enough time to keep it aligned with the evolving Android and Play Store requirements.
 
@@ -88,11 +88,11 @@ The project is preserved here as an archive of that journey.
 
 ↓
 
-**~2020 → Google Play Store Release**
+**~2019 → Google Play Store Release**
 
 ↓
 
-**106K+ Downloads · 40+ Countries**
+**220K+ Downloads · 40+ Countries**
 
 ↓
 
